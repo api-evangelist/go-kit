@@ -1,11 +1,18 @@
 aid: go-kit
 name: Go Kit
 description: >-
-  Go Kit is a programming toolkit for building microservices in Go with a focus on domain logic and transport-agnostic service design.
+  Go Kit is a programming toolkit for building microservices in Go, emphasizing
+  domain-driven design, transport-agnostic service definitions, and
+  best practices for distributed systems.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Microservices
+  - Go
+  - Golang
+  - Distributed Systems
+  - Domain-Driven Design
+  - Frameworks
 url: >-
   https://raw.githubusercontent.com/api-evangelist/go-kit/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -15,14 +22,31 @@ apis:
   - aid: go-kit:go-kit
     name: Go Kit
     description: >-
-      Go Kit is a programming toolkit for building microservices in Go with a focus on domain logic and transport-agnostic service design.
-    humanURL: https://github.com/api-evangelist/go-kit
+      Go Kit is a programming toolkit for building microservices in Go, emphasizing
+      domain-driven design, transport-agnostic service definitions, and
+      best practices for distributed systems.
+    humanURL: https://gokit.io/
     tags:
       - Microservices
-    properties: []
+      - Go
+      - Golang
+      - Distributed Systems
+      - Domain-Driven Design
+      - Frameworks
+    properties:
+      - type: Documentation
+        url: https://gokit.io/faq
+      - type: Getting Started
+        url: https://gokit.io/examples/
 common:
   - type: Website
-    url: https://github.com/api-evangelist/go-kit
+    url: https://gokit.io/
+  - type: Documentation
+    url: https://gokit.io/faq
+  - type: Getting Started
+    url: https://gokit.io/examples/
+  - type: GitHub Organization
+    url: https://github.com/go-kit
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
