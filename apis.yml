@@ -1,0 +1,28 @@
+aid: go-kit
+name: Go Kit
+description: >-
+  Go Kit is a programming toolkit for building microservices in Go with a focus on domain logic and transport-agnostic service design.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Microservices
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/go-kit/refs/heads/main/apis.yml
+created: '2026-03-26'
+modified: '2026-03-26'
+specificationVersion: '0.19'
+apis:
+  - aid: go-kit:go-kit
+    name: Go Kit
+    description: >-
+      Go Kit is a programming toolkit for building microservices in Go with a focus on domain logic and transport-agnostic service design.
+    humanURL: https://github.com/api-evangelist/go-kit
+    tags:
+      - Microservices
+    properties: []
+common:
+  - type: Website
+    url: https://github.com/api-evangelist/go-kit
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
