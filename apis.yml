@@ -36,7 +36,7 @@ apis:
     properties:
       - type: Documentation
         url: https://gokit.io/faq
-      - type: Getting Started
+      - type: GettingStarted
         url: https://gokit.io/examples/
       - type: JSONSchema
         url: >-
@@ -46,9 +46,9 @@ common:
     url: https://gokit.io/
   - type: Documentation
     url: https://gokit.io/faq
-  - type: Getting Started
+  - type: GettingStarted
     url: https://gokit.io/examples/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/go-kit
 maintainers:
   - FN: Kin Lane
