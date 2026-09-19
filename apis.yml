@@ -32,6 +32,13 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/go-kit.png
 tags:
   - Distributed Systems
   - Domain-Driven Design
+  - Framework
+  - Go
+  - Golang
+  - Microservices
+tags_raw:
+  - Distributed Systems
+  - Domain-Driven Design
   - Frameworks
   - Go
   - Golang
@@ -50,6 +57,13 @@ apis:
       best practices for distributed systems.
     humanURL: https://gokit.io/
     tags:
+      - Distributed Systems
+      - Domain-Driven Design
+      - Framework
+      - Go
+      - Golang
+      - Microservices
+    tags_raw:
       - Distributed Systems
       - Domain-Driven Design
       - Frameworks
