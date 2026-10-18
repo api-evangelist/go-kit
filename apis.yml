@@ -34,7 +34,6 @@ tags:
   - Domain-Driven Design
   - Framework
   - Go
-  - Golang
   - Microservices
 tags_raw:
   - Distributed Systems
@@ -61,7 +60,6 @@ apis:
       - Domain-Driven Design
       - Framework
       - Go
-      - Golang
       - Microservices
     tags_raw:
       - Distributed Systems
